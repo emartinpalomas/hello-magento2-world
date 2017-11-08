@@ -1,0 +1,8 @@
+{
+  "name": "BarnaBridge/hello-world",
+  "type": "magento2-module",
+  "autoload": {
+    "psr-4": { "BarnaBridge\\HelloWorld\\": "" },
+    "files": [ "registration.php" ]
+  }
+}
