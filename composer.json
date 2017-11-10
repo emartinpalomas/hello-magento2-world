@@ -3,6 +3,6 @@
   "type": "magento2-module",
   "autoload": {
     "psr-4": { "BarnaBridge\\HelloWorld\\": "" },
-    "files": [ "registration.php" ]
+    "files": [ "HelloWorld/registration.php" ]
   }
 }
